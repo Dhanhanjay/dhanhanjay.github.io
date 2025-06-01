@@ -3,18 +3,24 @@ layout: default
 title: "Dhanhanjay Pachori"
 ---
 
-<!-- Sidebar Profile Section -->
-<img src="image.jpeg" width="180" style="border-radius: 50%; display: block; margin-bottom: 15px;">
+<!-- Sidebar-like layout for photo + contact -->
+<div style="display: flex; gap: 20px;">
+  <div style="min-width: 200px;">
+    <img src="b17ed6bc-9a4f-450a-87e8-1f8717863c63.png" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;">
+    
+  **Dhanhanjay Pachori**  
+  Undergraduate Student  
+  Indian Institute of Information Technology, Nagpur  
+  
+  📧 [bt22ece024@iiitn.ac.in](mailto:bt22ece024@iiitn.ac.in)  
+  📱 +91-8871117057  
+  🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
+  🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
+  🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)  
+  </div>
 
-**Dhanhanjay Pachori**  
-Undergraduate Student  
-Indian Institute of Information Technology, Nagpur  
-
-📧 [bt22ece024@iiitn.ac.in](mailto:bt22ece024@iiitn.ac.in)  
-📱 +91-8871117057  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
-🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
-🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)
+  <div>
+    <!-- Main Content Starts Below -->
 
 ---
 
@@ -147,3 +153,6 @@ _BITS Pilani (Hyderabad)_ — tripathyrk@hyderabad.bits-pilani.ac.in
 ---
 
 _Last updated: June 2025_
+
+  </div>
+</div>

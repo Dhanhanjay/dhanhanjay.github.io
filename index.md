@@ -3,10 +3,6 @@ layout: default
 title: "Dhanhanjay Pachori"
 ---
 
-<!-- Sidebar-like layout for photo + contact -->
-<div style="display: flex; gap: 20px;">
-  <div style="min-width: 200px;">
-    <img src="image.jpeg" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;">
     
   **Dhanhanjay Pachori**  
   Undergraduate Student  
@@ -17,9 +13,7 @@ title: "Dhanhanjay Pachori"
   🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
   🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
   🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)  
-  </div>
 
-  <div>
     <!-- Main Content Starts Below -->
 
 ---
@@ -154,5 +148,4 @@ _BITS Pilani (Hyderabad)_ — tripathyrk@hyderabad.bits-pilani.ac.in
 
 _Last updated: June 2025_
 
-  </div>
-</div>
+

@@ -1,6 +1,5 @@
-title: ""
+title: "Dhanhanjay Pachori"
+logo: /image.jpeg  # Move your image to this path
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-minimal
-#logo:
-#show_downloads = true
-
-

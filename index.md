@@ -2,27 +2,29 @@
 layout: default
 title: "Dhanhanjay Pachori"
 ---
-  <img src="image.jpeg" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;"> 
-  **Dhanhanjay Pachori**  
-  Undergraduate Student  
-  Indian Institute of Information Technology, Nagpur  
-  
-  📧 [bt22ece024@iiitn.ac.in](mailto:bt22ece024@iiitn.ac.in)  
-  📱 +91-8871117057  
-  🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
-  🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
-  🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)  
+
+<img src="image.jpeg" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;">
+
+**Dhanhanjay Pachori**  
+Undergraduate Student  
+Indian Institute of Information Technology, Nagpur
+
+📧 [bt22ece024@iiitn.ac.in](mailto:bt22ece024@iiitn.ac.in)  
+📱 +91-8871117057  
+🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
+🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
+🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)  
 
 ---
 
 ## 📚 Table of Contents
 
-- [🎓 Education](#education)
-- [💼 Research Experience](#research-experience)
-- [📄 Publications](#publications)
-- [🧠 Workshops & Courses](#workshops--courses)
-- [🏅 Leadership & Responsibilities](#leadership--responsibilities)
-- [📬 References](#references)
+- [🎓 Education](#-education)
+- [💼 Research Experience](#-research-experience)
+- [📄 Publications](#-publications)
+- [🧠 Workshops & Courses](#-workshops--courses)
+- [🏅 Leadership & Responsibilities](#-leadership--responsibilities)
+- [📬 References](#-references)
 
 ---
 
@@ -80,13 +82,15 @@ _March 2023 – May 2023_
 ## 📄 Publications
 
 ### 📘 Book Chapters
+
 1. *Introduction to Cardiovascular Signals and Automated Systems*  
    Elsevier, 2024. [DOI](https://doi.org/10.1016/B978-0-44-314141-6.00006-2)
 
 2. *PPG-Based Diagnosis System for Cardiovascular Disorders*  
-   Elsevier, 2025. [In Press]
+   Elsevier, 2025. _(In Press)_
 
 ### 📝 Journal Papers
+
 1. *FBSE-Based Approach for Discriminating Seizure and Normal EEG Signals*, IEEE Sensors Letters, 2024  
    [DOI](https://doi.org/10.1109/LSENS.2024.3493253)
 
@@ -96,26 +100,26 @@ _March 2023 – May 2023_
 3. *Detection of Atrial Fibrillation from PPG via VMD*, IEEE Sensors Letters, 2024  
    [DOI](https://doi.org/10.1109/LSENS.2024.3358589)
 
-4. *FBSE-EWT Based Parkinson’s Detection (Speech)*, IEEE Transactions on Human-Machine Systems, 2025  
-   _[Under Review]_
+4. *FBSE-EWT Based Parkinson’s Detection (Speech)*, IEEE Transactions on Human-Machine Systems, 2025 _(Under Review)_
 
 ### 🎤 Conference Papers
+
 - *EEG-Based Emotion Detection using Wavelet Banks*, ICCCNT 2024, IIT Mandi  
 - *Snoring Detection via Synchrosqueezed Wavelet Transform*, ICSC 2025, JIIT Noida  
 - *Snoring Classification using Superlet Transform*, ICSC 2025, JIIT Noida  
-- *SVM-Based Fire Signal Detection in Raman OFDR*, NLS-32, 2024 (_Best Poster_)  
-- *EEG-Based Envisioned Speech Recognition*, EUSIPCO 2025, Palermo, Italy (_Accepted_)
+- *SVM-Based Fire Signal Detection in Raman OFDR*, NLS-32, 2024 _(Best Poster)_  
+- *EEG-Based Envisioned Speech Recognition*, EUSIPCO 2025, Palermo, Italy _(Accepted)_
 
 ---
 
 ## 🧠 Workshops & Courses
 
-- Reinforcement Learning Workshop, IISc Bangalore – Jan 2025  
-- SP & ML for Medical Applications, IIT Indore – Jun 2024  
-- Smart Health Monitoring Workshop, IIT Indore – Nov 2023  
-- ML in Urban Studies, ISRO – Jun 2023  
-- Time-Frequency Signal Processing, IIT Indore – Jan 2023  
-- IEEE CIS Summer Schools (IIT Indore, MNIT Jaipur, NIT Arunachal) – 2022–23
+- **Reinforcement Learning Workshop**, IISc Bangalore – Jan 2025  
+- **SP & ML for Medical Applications**, IIT Indore – Jun 2024  
+- **Smart Health Monitoring Workshop**, IIT Indore – Nov 2023  
+- **ML in Urban Studies**, ISRO – Jun 2023  
+- **Time-Frequency Signal Processing**, IIT Indore – Jan 2023  
+- **IEEE CIS Summer Schools** (IIT Indore, MNIT Jaipur, NIT Arunachal) – 2022–23
 
 ---
 
@@ -133,16 +137,14 @@ _March 2023 – May 2023_
 ## 📬 References
 
 **Prof. Tapan Kumar Gandhi**  
-_IIT Delhi_ — tgandhi@iitd.ac.in
+_IIT Delhi_ — [tgandhi@iitd.ac.in](mailto:tgandhi@iitd.ac.in)
 
 **Prof. M. Sabarimalai Manikandan**  
-_IIT Palakkad_ — msm@iitpkd.ac.in
+_IIT Palakkad_ — [msm@iitpkd.ac.in](mailto:msm@iitpkd.ac.in)
 
 **Prof. Rajesh Kumar Tripathy**  
-_BITS Pilani (Hyderabad)_ — tripathyrk@hyderabad.bits-pilani.ac.in
+_BITS Pilani (Hyderabad)_ — [tripathyrk@hyderabad.bits-pilani.ac.in](mailto:tripathyrk@hyderabad.bits-pilani.ac.in)
 
 ---
 
 _Last updated: June 2025_
-
-

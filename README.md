@@ -3,26 +3,38 @@ layout: page
 title: "Dhanhanjay Pachori"
 ---
 
-<img src="image.jpeg" width="180" style="border-radius: 50%; display: block; margin-bottom: 10px;">
+<!-- Sidebar Profile Section -->
+<img src="image.jpeg" width="180" style="border-radius: 50%; display: block; margin-bottom: 15px;">
 
 **Dhanhanjay Pachori**  
 Undergraduate Student  
 Indian Institute of Information Technology, Nagpur  
 
 📧 [bt22ece024@iiitn.ac.in](mailto:bt22ece024@iiitn.ac.in)  
+📱 +91-8871117057  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
 🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
 🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)
 
 ---
 
+## 📚 Table of Contents
+
+- [🎓 Education](#education)
+- [💼 Research Experience](#research-experience)
+- [📄 Publications](#publications)
+- [🧠 Workshops & Courses](#workshops--courses)
+- [🏅 Leadership & Responsibilities](#leadership--responsibilities)
+- [📬 References](#references)
+
+---
 
 ## 🎓 Education
 
-**Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering**  
-Indian Institute of Information Technology, Nagpur  
+### Bachelor of Technology (B.Tech.) in Electronics and Communication Engineering  
+**Indian Institute of Information Technology, Nagpur**  
 _November 2022 – Present_  
-**CGPA**: 8.78 (Till Semester V)  
+**CGPA**: 8.78 (Till Semester V)
 
 **Relevant Coursework**:  
 Signals and Systems, Digital Signal Processing, Analog Communication, Digital Communication, Optical Communication, Wireless Communication, Digital Electronics, Electronic Devices and Circuits
@@ -31,46 +43,39 @@ Signals and Systems, Digital Signal Processing, Analog Communication, Digital Co
 
 ## 💼 Research Experience
 
-### Research Intern  
-**University of California, Irvine, United States**  
+### Research Intern – University of California, Irvine, United States  
 _February 2025 – Present_  
-- **Project**: Navigation Environment Merging Virtuality, Ecotone, and Reality enabled by Microtechnology for Localization of Subjects and Things  
+- **Project**: Virtuality-Ecotone-Reality Merging for Localization using Microtechnology  
 - **Supervisor**: Prof. Andrei Shkel
 
-### Research Intern  
-**National Autonomous University of Mexico (UNAM), Mexico City, Mexico**  
+### Research Intern – National Autonomous University of Mexico (UNAM), Mexico  
 _December 2024 – February 2025_  
-- **Project**: Analysis of EEG signals using Multivariate Variational Mode Decomposition (MVMD) for Brain-Computer Interface in Mobile Environments  
+- **Topic**: EEG Signal Analysis via MVMD for Mobile BCI  
 - **Supervisor**: Dr. Mario Arrieta Paternina
 
-### Research Intern  
-**Indian Institute of Technology Palakkad, Kerala, India**  
+### Research Intern – Indian Institute of Technology Palakkad  
 _September 2024 – December 2024_  
-- **Project**: Respiration Rate Estimation using ECG Signals  
+- **Topic**: Respiration Rate Estimation from ECG  
 - **Supervisor**: Dr. M. Sabarimalai Manikandan
 
-### Research Intern  
-**Indian Institute of Technology Delhi, New Delhi, India**  
+### Research Intern – Indian Institute of Technology Delhi  
 _May 2024 – July 2024_  
-- **Project**: Human Emotion Recognition using EEG Signals  
+- **Topic**: Human Emotion Recognition using EEG  
 - **Supervisor**: Prof. Tapan Kumar Gandhi
 
-### Research Intern  
-**Indian Institute of Science, Bangalore, India**  
+### Research Intern – Indian Institute of Science, Bangalore  
 _December 2023 – February 2024_  
-- **Project**: Vibration Detection in Speech Signals  
+- **Topic**: Vibration Detection in Speech  
 - **Supervisor**: Dr. Prasanta Kumar Ghosh
 
-### Research Intern  
-**Raja Ramanna Centre for Advanced Technology, Indore, India**  
+### Research Intern – Raja Ramanna Centre for Advanced Technology  
 _July 2023_  
-- **Project**: Optical Fiber-based Distributed Temperature Sensor  
+- **Topic**: Optical Fiber-Based Distributed Temperature Sensor  
 - **Supervisor**: Dr. Manoj Kumar Saxena
 
-### Research Intern  
-**Indian Institute of Technology Indore, Madhya Pradesh, India**  
+### Research Intern – Indian Institute of Technology Indore  
 _March 2023 – May 2023_  
-- **Project**: Applications of Artificial Intelligence, Machine Learning, and Deep Learning  
+- **Topic**: AI, ML, and Deep Learning Applications  
 - **Supervisor**: Prof. Vimal Bhatia
 
 ---
@@ -78,100 +83,66 @@ _March 2023 – May 2023_
 ## 📄 Publications
 
 ### 📘 Book Chapters
+1. *Introduction to Cardiovascular Signals and Automated Systems*  
+   Elsevier, 2024. [DOI](https://doi.org/10.1016/B978-0-44-314141-6.00006-2)
 
-1. Dhanhanjay Pachori, Shaswati Dash, Rajesh Kumar Tripathy, and Tapan Kumar Jain,  
-   *“Introduction to Cardiovascular Signals and Automated Systems”*, in _Signal Processing Driven Machine Learning for Cardiovascular Data Processing_, Elsevier, 2024.  
-   [DOI](https://doi.org/10.1016/B978-0-44-314141-6.00006-2)
+2. *PPG-Based Diagnosis System for Cardiovascular Disorders*  
+   Elsevier, 2025. [In Press]
 
-2. Dhanhanjay Pachori, Rajesh Kumar Tripathy, and M. Sabarimalai Manikandan,  
-   *“PPG-Based Diagnosis System for Cardiovascular Disorders”*, in _Non-Stationary and Nonlinear Data Processing for Automated Computer-Aided Medical Diagnosis_, Elsevier, 2025. [In press]
-
-### 📝 Journal Articles
-
-1. Dhanhanjay Pachori and Tapan Kumar Gandhi,  
-   *“FBSE-Based Approach for Discriminating Seizure and Normal EEG Signals”*,  
-   _IEEE Sensors Letters_, vol. 8, issue 12, December 2024.  
+### 📝 Journal Papers
+1. *FBSE-Based Approach for Discriminating Seizure and Normal EEG Signals*, IEEE Sensors Letters, 2024  
    [DOI](https://doi.org/10.1109/LSENS.2024.3493253)
 
-2. Dhanhanjay Pachori and Tapan Kumar Gandhi,  
-   *“Automated Human Emotion Recognition System Using TQWT-Based EEG Subbands”*,  
-   _IEEE Sensors Letters_, vol. 8, issue 12, December 2024.  
+2. *Automated Emotion Recognition using TQWT-EEG Subbands*, IEEE Sensors Letters, 2024  
    [DOI](https://doi.org/10.1109/LSENS.2024.3486708)
 
-3. Dhanhanjay Pachori, Rajesh Kumar Tripathy, and Tapan Kumar Jain,  
-   *“Detection of Atrial Fibrillation from PPG Sensor Data Using Variational Mode Decomposition”*,  
-   _IEEE Sensors Letters_, vol. 8, issue 3, March 2024.  
+3. *Detection of Atrial Fibrillation from PPG via VMD*, IEEE Sensors Letters, 2024  
    [DOI](https://doi.org/10.1109/LSENS.2024.3358589)
 
-4. Dhanhanjay Pachori, Shailesh Vitthalrao Bhalerao, and Tapan Kumar Jain,  
-   *“FBSE-EWT Based Parkinson’s Disease Identification from Voiced Speech”*,  
-   _IEEE Transactions on Human-Machine Systems_, 2025. [Under Review]
+4. *FBSE-EWT Based Parkinson’s Detection (Speech)*, IEEE Transactions on Human-Machine Systems, 2025  
+   _[Under Review]_
 
 ### 🎤 Conference Papers
-
-1. *Automated Emotion Identification System Utilizing EEG Bands Extracted via Wavelet Filter Banks*  
-   15th International IEEE Conference on Computing, Communication and Networking Technologies (ICCCNT), Indian Institute of Technology Mandi, India, June 2024.  
-   [DOI](https://doi.org/10.1109/ICCCNT61001.2024.10725942)
-
-2. *Automated Snoring Detection System Using Synchrosqueezed Wavelet Transform*  
-   10th International Conference on Signal Processing and Communication (ICSC), Jaypee Institute of Information Technology, Noida, India, February 2025.  
-   [DOI](https://doi.org/10.1109/ICSC64553.2025.10968722)
-
-3. *Automated Classification of Snoring and Non-Snoring Sound Signals Based on Singular Superlet Transform*  
-   10th International Conference on Signal Processing and Communication (ICSC), Jaypee Institute of Information Technology, Noida, India, February 2025.  
-   [DOI](https://doi.org/10.1109/ICSC64553.2025.10968244)
-
-4. *Erroneous Signal Detection in Raman Optical Fiber Based Distributed Fire Detector System Using Support Vector Machine*  
-   National Laser Symposium (NLS-32), India, 2024.  
-   [Best Poster Award]
-
-5. *EEG-Based Envisioned Speech Recognition System Using Spectral Graph Wavelet Transform*  
-   33rd European Signal Processing Conference (EUSIPCO), Palermo, Italy, September 2025.  
-   [Accepted]
+- *EEG-Based Emotion Detection using Wavelet Banks*, ICCCNT 2024, IIT Mandi  
+- *Snoring Detection via Synchrosqueezed Wavelet Transform*, ICSC 2025, JIIT Noida  
+- *Snoring Classification using Superlet Transform*, ICSC 2025, JIIT Noida  
+- *SVM-Based Fire Signal Detection in Raman OFDR*, NLS-32, 2024 (_Best Poster_)  
+- *EEG-Based Envisioned Speech Recognition*, EUSIPCO 2025, Palermo, Italy (_Accepted_)
 
 ---
 
-## 🧠 Workshops & Short-Term Courses
+## 🧠 Workshops & Courses
 
-- Reinforcement Learning Workshop, Indian Institute of Science Bangalore, January 2025  
-- Signal Processing & Machine Learning Techniques for Medical Applications, IIT Indore, June 2024  
-- Advanced Signal Processing and Deep Learning Techniques for Smart Health Monitoring, IIT Indore, November 2023  
-- Machine Learning Application in Urban Studies, Indian Institute of Remote Sensing (ISRO), June 2023  
-- Time-Frequency Signal Processing and Applications, IIT Indore, January 2023  
-- IEEE CIS Summer Schools:  
-  - Deep Learning and Computational Intelligence (IIT Indore, Dec 2022)  
-  - AI/ML for Engineering Challenges (MNIT Jaipur, Dec 2022)  
-  - Biomedical Data & Imaging (NIT Arunachal Pradesh, Nov 2022)
+- Reinforcement Learning Workshop, IISc Bangalore – Jan 2025  
+- SP & ML for Medical Applications, IIT Indore – Jun 2024  
+- Smart Health Monitoring Workshop, IIT Indore – Nov 2023  
+- ML in Urban Studies, ISRO – Jun 2023  
+- Time-Frequency Signal Processing, IIT Indore – Jan 2023  
+- IEEE CIS Summer Schools (IIT Indore, MNIT Jaipur, NIT Arunachal) – 2022–23
 
 ---
 
-## 🏅 Leadership & Positions of Responsibility
+## 🏅 Leadership & Responsibilities
 
 - **AI/ML Lead**, Google Developer Groups – IIIT Nagpur (2024 – Present)  
-- **Mentor**, Elevate (Development Wing) – IIIT Nagpur (2024 – Present)  
-- **Networking Lead**, Training and Placement Cell – IIIT Nagpur (2024 – Present)  
-- **Core Team Member – AI/ML**, Google Developer Student Club – IIIT Nagpur (2023 – 2024)  
-- **Club Head**, Elevate (Development Wing) – IIIT Nagpur (2023 – 2024)  
-- **Core Team Member – Hospitality**, Tantrafiestra Tech Fest – IIIT Nagpur (2023 – 2024)
+- **Mentor**, Elevate Dev Wing – IIIT Nagpur (2024 – Present)  
+- **Networking Lead**, Placement Cell – IIIT Nagpur (2024 – Present)  
+- **Core Team – AI/ML**, GDSC – IIIT Nagpur (2023 – 2024)  
+- **Club Head**, Elevate Dev Wing – IIIT Nagpur (2023 – 2024)  
+- **Core Team – Hospitality**, Tantrafiestra Fest – IIIT Nagpur (2023 – 2024)
 
 ---
 
 ## 📬 References
 
 **Prof. Tapan Kumar Gandhi**  
-Professor, Department of Electrical Engineering  
-Indian Institute of Technology Delhi  
-📧 tgandhi@iitd.ac.in | 📞 +91 (011) 2659-1153  
+_IIT Delhi_ — tgandhi@iitd.ac.in
 
 **Prof. M. Sabarimalai Manikandan**  
-Associate Professor, Department of Electrical Engineering  
-Indian Institute of Technology Palakkad  
-📧 msm@iitpkd.ac.in | 📞 +91 (049) 2322-6407  
+_IIT Palakkad_ — msm@iitpkd.ac.in
 
 **Prof. Rajesh Kumar Tripathy**  
-Assistant Professor, Department of Electrical and Electronics Engineering  
-Birla Institute of Technology and Science, Pilani – Hyderabad Campus  
-📧 tripathyrk@hyderabad.bits-pilani.ac.in | 📞 +91 (040) 6630-3683  
+_BITS Pilani (Hyderabad)_ — tripathyrk@hyderabad.bits-pilani.ac.in
 
 ---
 

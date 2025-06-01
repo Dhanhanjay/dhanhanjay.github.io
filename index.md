@@ -6,7 +6,7 @@ title: "Dhanhanjay Pachori"
 <!-- Sidebar-like layout for photo + contact -->
 <div style="display: flex; gap: 20px;">
   <div style="min-width: 200px;">
-    <img src="b17ed6bc-9a4f-450a-87e8-1f8717863c63.png" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;">
+    <img src="image.jpeg" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;">
     
   **Dhanhanjay Pachori**  
   Undergraduate Student  

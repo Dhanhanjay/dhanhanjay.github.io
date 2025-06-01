@@ -3,20 +3,6 @@ layout: default
 title: "Dhanhanjay Pachori"
 ---
 
-<img src="image.jpeg" width="160" style="border-radius: 50%; display: block; margin-bottom: 10px;">
-
-**Dhanhanjay Pachori**  
-Undergraduate Student  
-Indian Institute of Information Technology, Nagpur
-
-📧 [bt22ece024@iiitn.ac.in](mailto:bt22ece024@iiitn.ac.in)  
-📱 +91-8871117057  
-🔗 [Google Scholar](https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en&oi=ao)  
-🔗 [LinkedIn](https://linkedin.com/in/dhanhanjay-pachori/)  
-🔗 [ORCID](https://orcid.org/0009-0004-9748-604X)  
-
----
-
 ## 📚 Table of Contents
 
 - [🎓 Education](#-education)

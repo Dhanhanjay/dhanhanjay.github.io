@@ -1,5 +1,14 @@
-title: "Dhanhanjay Pachori"
-logo: /image.jpeg  # Move your image to this path
-show_downloads: false
-google_analytics:
+title: >
+  <img src='/image.jpeg' width='130' style='border-radius:50%; margin-bottom:10px'><br>
+  <b>Dhanhanjay Pachori</b><br>
+  <small>Undergraduate Student<br>IIIT Nagpur</small><br><br>
+  📧 <a href='mailto:bt22ece024@iiitn.ac.in'>bt22ece024@iiitn.ac.in</a><br>
+  📱 +91-8871117057<br>
+  🔗 <a href='https://scholar.google.com/citations?user=MUerymUAAAAJ&hl=en'>Google Scholar</a><br>
+  🔗 <a href='https://linkedin.com/in/dhanhanjay-pachori/'>LinkedIn</a><br>
+  🔗 <a href='https://orcid.org/0009-0004-9748-604X'>ORCID</a>
+
+description: ""
 theme: jekyll-theme-minimal
+logo: /assets/images/image.jpeg
+show_downloads: false
